@@ -1,0 +1,20 @@
+{
+  "name": "codeforcesapijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CodeforcesApiRequestMaker.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "js-sha512": "^0.8.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Khan",
+  "license": "ISC"
+}
